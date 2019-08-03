@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="savestudent" />
         <module name="studentmodel" />
+        <module name="readstudent" />
         <module name="Student_XX" />
       </profile>
     </annotationProcessing>
